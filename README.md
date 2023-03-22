@@ -3,16 +3,11 @@
 <a name="readme-top"></a>
 
 <!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
 REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
   - Built With
-  - Live Demo
+  - Key Features
 - Getting Started
 - Authors
 - Future Features
@@ -20,19 +15,16 @@ REQUIRED SECTIONS:
 - Show your support
 - Acknowledgements
 - License
-
-OPTIONAL SECTIONS:
 - FAQ
 
-After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./AI logo 2.png" alt="logo" width="150"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse README Doc</b></h3>
 
 </div>
 
@@ -44,54 +36,42 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-Hello Microverse is a...
+Hello Microverse is my first project as a Micronaut. Overtime, I'll get better.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> HTML and CSS
+> HTML and CSS Languages
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html.com/">HTML</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Styling</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://css-tricks.com/">CSS</a></li>
   </ul>
 </details>
 
@@ -99,21 +79,10 @@ Hello Microverse is a...
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> The key features added in this project.
 
 - HTML
 - Cascading Style Sheet
-- Linters
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,13 +90,16 @@ Hello Microverse is a...
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> To get started as a deveoper, below is instructions on how to make use of this project.
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
+
+1. Latest version of your browser
+2. Code Editor
 
 <!--
 Example command:
@@ -141,63 +113,27 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+Run this command
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:okemboi/Hello-Microverse.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
-  cd my-project
-  gem install
+  cd Hello-Microverse
+  npm install
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+Open index.html using liver server extension.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,9 +141,9 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> This is a solo project, successfully submitted by myself;
 
-👤 Kemboi
+👤 Kemboi Kiptanui
 
 - GitHub: [@githubhandle](https://github.com/okemboi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kiptanuikemboi/)
@@ -218,10 +154,11 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+> Features to be added in this project include.
 
 - JavasScript
-- Python
+- Algorithims
+- Database
 - Ruby
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -232,7 +169,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/okemboi/Hello-Microverse/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -240,9 +177,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, please support me by following me on Github; <a href ="https://github.com/okemboi">Kemboi</a> and give a star to this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,25 +185,19 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank the Microverse team for making this program possible.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+> Frequently Asked Questions
 
-- **[Question_1]**
+- Which browser works best for this project?
 
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  - Any modern browser i.e. Firefox, Google Chrome,Microsoft Edge, Apple Safari, Opera, Brave, Vivaldi, DuckDuckGo, Chromium, Epic
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -277,7 +206,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
